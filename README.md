@@ -1,1 +1,1 @@
-<img src="https://cf.leed.at/?id=gumgood">
+<img src="https://cf.leed.at/?id=1bin">
