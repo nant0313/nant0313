@@ -1,3 +1,4 @@
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nant0313">
 <img src="https://cf.leed.at/?id=tourist&c=c">
 <img src="https://cf.leed.at/?id=kanghyogue&c=ceqweg125125wegewggqw">
 <img src="https://cf.leed.at/?id=swoon&c=c">
